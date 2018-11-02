@@ -1,0 +1,20 @@
+img {
+    height: 200px;
+    width: 30%;
+    margin: 1.66%;
+    float: left; 
+}
+
+.first {
+    border-top: 1px, solid, black;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 1px solid #f1f1f1;
+    padding-bottom: 20px;
+}
